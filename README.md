@@ -1,0 +1,2 @@
+# AutoTestNunit
+Dali interface test
